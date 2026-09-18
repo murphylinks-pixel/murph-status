@@ -1,0 +1,35 @@
+{
+    "last_checkin": null,
+    "next_checkin": null,
+    "accounts": {
+          "agentic": {
+                  "nickname": "Agentic",
+                  "last4": "4301",
+                  "authority": "full_autonomy",
+                  "total_value": 447.41,
+                  "cash": 38.21,
+                  "positions": [
+                            { "symbol": "RKLB", "quantity": 6, "avg_cost": 78.80, "last_price": 67.57 }
+                  ],
+                  "last_action": { "type": "none", "summary": "Awaiting first routine run." }
+          },
+          "margin": {
+                  "nickname": "Individual Margin",
+                  "last4": "4870",
+                  "authority": "propose_only",
+                  "last_action": { "type": "none", "summary": "Awaiting first routine run." }
+          },
+          "traditional_ira": {
+                  "nickname": "Traditional IRA",
+                  "last4": "6385",
+                  "authority": "propose_only",
+                  "last_action": { "type": "none", "summary": "Awaiting first routine run." }
+          },
+          "roth_ira": {
+                  "nickname": "Roth IRA",
+                  "last4": "7747",
+                  "authority": "propose_only",
+                  "last_action": { "type": "none", "summary": "Awaiting first routine run." }
+          }
+    }
+}
